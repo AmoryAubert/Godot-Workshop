@@ -7,6 +7,9 @@
 - cliquez sur "réimporter"
 - cliquez ensuite sur "pré-réglage..." et sélectionnez "définnir comme défaut pour «Texture»"
 
+- dans la barre de menu, dans projet > paramètres du projet > Controles
+- éffacez tous les controles, et ajoutez les votres (haut, bas, gauche, droite, courir, marcher)
+
 ## Let's Go
 1. Le joueur
 - creez un noeud de type kineticBody2D, renommez-le en "Poulet"
@@ -62,6 +65,8 @@
 - faites glisser autant de pièce que vous le voudrez
 
 7. Le score
+- dans la barre de menu, dans projet > paramètres du projet > AutoLoad
+- cliquez sur le dossier, choisissez "coin.gd" et renommez le nom du noeud en "Score"
 - dans la scène "Map01", créez un noeud "canvasLayer", renommez le en "ScoreLayer"
 - ajoutez 2 noeuds "RichTextLabel", renommez le 2eme en "ScoreLabel"
 - dans le premier, définissez le texte à "Score :"
