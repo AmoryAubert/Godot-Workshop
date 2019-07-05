@@ -1,6 +1,13 @@
 # Godot-Workshop
 
+## Préparation
+- créez votre projet en ESL 3.0
+- sélectionnez l'icon.png dans le système de fichiers, allez dans "Importer"
+- dans les réglages, décochez la case "Filter"
+- cliquez sur "réimporter"
+- cliquez ensuite sur "pré-réglage..." et sélectionnez "définnir comme défaut pour «Texture»"
 
+## Let's Go
 1. Le joueur
 - creez un noeud de type kineticBody2D, renommez-le en "Poulet"
 - dans celui-ci ajoutez un sprite et une collisionShape2D.
