@@ -10,7 +10,7 @@
 - dans la barre de menu, dans projet > paramètres du projet > Controles
 - éffacez tous les controles, et ajoutez les votres (haut, bas, gauche, droite, courir, marcher)
 
-- clonez mon repo et glissez le tout dans le projet
+- clonez mon repo et glissez son contenu dans le dossier du projet
 ## Let's Go
 1. Le joueur
 - creez un noeud de type kineticBody2D, renommez-le en "Poulet"
